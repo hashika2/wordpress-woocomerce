@@ -364,7 +364,7 @@ class WC_Admin_List_Table_Orders extends WC_Admin_List_Table {
 		}
 
 		if ( $order->has_status( array( 'pending', 'on-hold' ) ) ) {
-			echo "<script>console.log(222222222 );</script>";
+			print_r("<script>console.log(222222222 );</script>") ;
 
 			$status_actions['processing'] = array(
 				'url'    => wp_nonce_url( admin_url( 'admin-ajax.php?action=woocommerce_mark_order_status&status=processing&order_id=' . $order->get_id() ), 'woocommerce-mark-order-status' ),
