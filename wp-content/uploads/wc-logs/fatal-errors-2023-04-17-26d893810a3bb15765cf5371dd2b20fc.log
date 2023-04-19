@@ -1,0 +1,12 @@
+2023-04-17T09:51:24+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in C:\xampp\htdocs\wp\wp-content\plugins\woocommerce-boda-1\includes\class-woocommerce-boda-api.php on line 147
+
+2023-04-17T09:51:29+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in C:\xampp\htdocs\wp\wp-content\plugins\woocommerce-boda-1\includes\class-woocommerce-boda-api.php on line 147
+
+2023-04-17T09:51:29+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in C:\xampp\htdocs\wp\wp-content\plugins\woocommerce-boda-1\includes\class-woocommerce-boda-api.php on line 147
+
+2023-04-17T09:52:48+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in C:\xampp\htdocs\wp\wp-content\plugins\woocommerce-boda-1\includes\class-woocommerce-boda-api.php on line 147
+
+2023-04-17T09:52:53+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in C:\xampp\htdocs\wp\wp-content\plugins\woocommerce-boda-1\includes\class-woocommerce-boda-api.php on line 147
+
+2023-04-17T09:52:54+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in C:\xampp\htdocs\wp\wp-content\plugins\woocommerce-boda-1\includes\class-woocommerce-boda-api.php on line 147
+

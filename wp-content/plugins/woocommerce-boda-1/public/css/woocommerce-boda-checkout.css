@@ -1,0 +1,5 @@
+/*hide city fields in checkout*/
+#billing_city_field, #shipping_city_field{
+    display: none !important;
+}
+

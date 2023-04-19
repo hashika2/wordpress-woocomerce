@@ -1,0 +1,4 @@
+2023-04-16T13:10:37+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\mailpoet\vendor-prefixed\doctrine\collections\lib\Doctrine\Common\Collections\Expr\Comparison.php on line 3
+
+2023-04-16T13:10:41+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wp\wp-content\plugins\mailpoet\vendor-prefixed\doctrine\collections\lib\Doctrine\Common\Collections\Expr\Comparison.php on line 3
+
